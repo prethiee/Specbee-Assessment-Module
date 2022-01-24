@@ -1,0 +1,6 @@
+name: Site Location and Time
+type: module
+description: Displays the location and the time set for the location.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
